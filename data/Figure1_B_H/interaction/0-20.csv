@@ -1,0 +1,712 @@
+﻿Type,Ecosystem,Mycorrhiza,log_stock,stock,Species
+Permafrost,Wetland,ErM,1.415267232,26.0176,DX-DSYJ
+Permafrost,Wetland,AM,1.3502771,22.4015,LNTC
+Permafrost,Wetland,EcM,1.372021892,23.55168,LYS-DSYJ
+Seasonal frozen ground,Wetland,AM,1.060468926,11.49394,MTC
+Seasonal frozen ground,Wetland,NM,0.938183367,8.67328,XYZ
+Permafrost,Forest,EcM,0.9007439,7.9569,BH
+Permafrost,Forest,EcM,0.548870745,3.53892,BH
+Permafrost,Forest,EcM,1.089307988,12.2831,BH-LYS
+Permafrost,Forest,EcM,0.568595931,3.70336,BH-LYS
+Permafrost,Forest,EcM,1.154707526,14.27932,LYS
+Permafrost,Forest,EcM,0.767534317,5.8551,LYS
+Permafrost,Wetland,NM,1.484185944,30.49200231,BMYHZC
+Permafrost,Wetland,NM,1.390040207,24.54936186,BMYHZC
+Permafrost,Wetland,ErM,2.01099495,102.564,DG
+Permafrost,Wetland,AM,1.711623758,51.478248,TC
+Permafrost,Wetland,AM,1.727612495,53.40876,TC
+Permafrost,Wetland,EcM,1.826610068,67.082628,ZL
+Permafrost,Wetland,EcM,1.571962023,37.321752,ZL
+Permafrost,Forest,EcM,0.547085225,3.524400267,BH
+Permafrost,Forest,EcM,0.878273589,7.555680572,BH
+Permafrost,Forest,EcM,1.167381178,14.70216111,BH
+Permafrost,Wetland,AM,1.889178401,77.478,SC-TX
+Permafrost,Wetland,AM,1.79813941,62.826,SC-TX
+Permafrost,Forest,EcM,1.924500317,84.042762,LYS
+Permafrost,Forest,EcM,1.899195117,79.285746,LYS
+Permafrost,Forest,EcM,1.833693596,68.185746,LYS
+Permafrost,Forest,EcM,2.052854551,112.94176,LYS
+Permafrost,Forest,EcM,2.019301339,104.544536,LYS
+Permafrost,Forest,EcM,1.943249026,87.750384,LYS
+Permafrost,Forest,EcM,0.996474887,9.9191598,LYS
+Permafrost,Forest,EcM,0.962056891,9.1634052,LYS
+Permafrost,Forest,EcM,0.956045542,9.0374424,LYS
+Permafrost,Forest,EcM,1.844516441,69.90632,LYS
+Permafrost,Forest,EcM,1.718272573,52.272416,LYS
+Permafrost,Forest,EcM,1.867379418,73.685056,LYS
+Permafrost,Forest,EcM,1.730432067,53.756634,LYS-BH
+Permafrost,Forest,EcM,1.701306121,50.26968,LYS-BH
+Permafrost,Forest,EcM,1.484450321,30.51057,LYS-BH
+Permafrost,Forest,EcM,1.366349429,23.246064,LYS-BH
+Permafrost,Forest,EcM,1.360886113,22.955466,LYS-BH
+Permafrost,Forest,EcM,0.981773382,9.5890014,LYS-BH
+Permafrost,Forest,EcM,0.894623206,7.8455466,LYS-BH
+Permafrost,Forest,EcM,0.718531947,5.2303644,LYS-BH
+Permafrost,Forest,EcM,1.454283965,28.46321578,LYS
+Permafrost,Forest,EcM,1.180286549,15.14560232,LYS
+Permafrost,Wetland,AM,1.700526159,50.17948028,LNTC
+Permafrost,Wetland,AM,1.572193743,37.34167053,LNTC
+Permafrost,Forest,EcM,1.388337628,24.45330858,LYS
+Permafrost,Forest,EcM,1.247718149,17.68960557,LYS
+Permafrost,Wetland,AM,1.660723725,45.78505336,LNTC
+Permafrost,Wetland,AM,1.582527317,38.24083063,LNTC
+Permafrost,Forest,EcM,1.023188237,10.54844,LYS
+Permafrost,Forest,EcM,1.006705587,10.1556,ZZS
+Permafrost,Forest,EcM,0.91944421,8.307,BH
+Permafrost,Forest,EcM,1.842507393,69.58368,LYS
+Permafrost,Forest,EcM,1.711763578,51.494824,LYS
+Permafrost,Forest,EcM,1.861650908,72.719504,LYS
+Permafrost,Forest,EcM,0.997876179,9.9512166,LYS
+Permafrost,Forest,EcM,0.959179199,9.102888,LYS
+Permafrost,Forest,EcM,0.955482963,9.025743,LYS
+Permafrost,Wetland,EcM,1.149226538,14.10024107,LYS-KYDX
+Permafrost,Wetland,EcM,1.21664933,16.46832125,LYS-LMTC
+Permafrost,Wetland,EcM,1.115506701,13.04688099,HM-LNTC
+Permafrost,Forest,EcM,1.957013138,90.576,LYS
+Permafrost,Forest,EcM,1.765757937,58.312,LYS
+Permafrost,Wetland,EcM,2.092467993,123.728,BH
+Permafrost,Wetland,EcM,1.938159331,86.728,BH
+Permafrost,Wetland,NM,2.001491409,100.344,BMYHZC
+Permafrost,Wetland,NM,1.821539729,66.304,BMYHZC
+Permafrost,Wetland,ErM,2.097711127,125.230792,LNTC-DG
+Permafrost,Wetland,ErM,2.052683786,112.89736,LNTC-DG
+Permafrost,Wetland,EcM,0.942611212,8.762160664,LYS-DX
+Permafrost,Wetland,EcM,0.530507087,3.392400257,LYS-DX
+Permafrost,Wetland,EcM,0.942611212,8.762160664,LYS-DX
+Permafrost,Wetland,EcM,0.482679283,3.03864023,LYS-DX
+Permafrost,Wetland,EcM,0.969747597,9.327120707,LYS-DX
+Permafrost,Wetland,EcM,0.58951177,3.886080294,LYS-DX
+Permafrost,Wetland,EcM,1.122221155,13.250161,LYS-DX
+Permafrost,Wetland,EcM,0.685003291,4.841760367,LYS-DX
+Permafrost,Wetland,EcM,0.956391318,9.044640685,LYS-DX
+Permafrost,Wetland,EcM,0.565243195,3.674880278,LYS-DX
+Permafrost,Wetland,EcM,1.006048267,10.14024077,LYS-LMTC
+Permafrost,Wetland,EcM,0.652052881,4.48800034,LYS-LMTC
+Permafrost,Wetland,EcM,1.016548697,10.38840079,LYS-LMTC
+Permafrost,Wetland,EcM,0.573586355,3.746160284,LYS-LMTC
+Permafrost,Wetland,EcM,1.033963908,10.81344082,LYS-LMTC
+Permafrost,Wetland,EcM,0.634590145,4.311120327,LYS-LMTC
+Permafrost,Wetland,EcM,1.062780507,11.55528088,LYS-LMTC
+Permafrost,Wetland,EcM,0.694373546,4.947360375,LYS-LMTC
+Permafrost,Wetland,EcM,1.019518431,10.45968079,LYS-LMTC
+Permafrost,Wetland,EcM,0.641712048,4.382400332,LYS-LMTC
+Permafrost,Wetland,EcM,0.908034439,8.091600613,CH
+Permafrost,Wetland,EcM,0.561168226,3.640560276,CH
+Permafrost,Wetland,EcM,0.874463296,7.489680567,CH
+Permafrost,Wetland,EcM,0.497515721,3.144240238,CH
+Permafrost,Wetland,EcM,0.872468652,7.455360565,CH
+Permafrost,Wetland,EcM,0.467318019,2.933040222,CH
+Permafrost,Wetland,EcM,1.023881044,10.5652808,CH
+Permafrost,Wetland,EcM,0.678562112,4.770480361,CH
+Permafrost,Wetland,EcM,0.892602129,7.809120592,CH
+Permafrost,Wetland,EcM,0.516773311,3.286800249,CH
+Permafrost,Forest,EcM,0.925163519,8.41712,LYS-BH
+Permafrost,Forest,EcM,0.511391327,3.24632,LYS-BH
+Permafrost,Forest,EcM,1.198885752,15.8083212,LYS-BH
+Permafrost,Forest,EcM,0.78521594,6.098400462,LYS-BH
+Permafrost,Forest,EcM,1.29345979,19.6544,LYS-BH
+Permafrost,Forest,EcM,0.717544023,5.21848,LYS-BH
+Permafrost,Wetland,,1.94732587,88.578,
+Permafrost,Wetland,,1.891660091,77.922,
+Permafrost,Wetland,EcM,1.95273434,89.688,QM
+Permafrost,Wetland,EcM,1.931813704,85.47,QM
+Permafrost,Wetland,EcM,1.154484837,14.272,CH-DX
+Permafrost,Wetland,ErM,2.043582317,110.556,DX-DSYJ
+Permafrost,Wetland,EcM,0.970607222,9.345600708,LYS-DX
+Permafrost,Wetland,EcM,0.511509071,3.247200246,LYS-DX
+Permafrost,Wetland,EcM,0.998750945,9.971280755,LYS-LMTC
+Permafrost,Wetland,EcM,0.671291388,4.691280355,LYS-LMTC
+Permafrost,Wetland,EcM,1.011330216,10.26432078,CH-LNTC
+Permafrost,Wetland,EcM,0.642757282,4.392960333,CH-LNTC
+Seasonal frozen ground,Wetland,NM,1.237630689,17.28346,XYZ
+Permafrost,Wetland,ErM,2.120402548,131.94792,DX-DSYJ
+Permafrost,Wetland,EcM,1.95273434,89.688,QM
+Permafrost,Wetland,EcM,1.931813704,85.47,QM
+Permafrost,Wetland,EcM,1.94732587,88.578,MTC
+Permafrost,Wetland,EcM,1.891660091,77.922,MTC
+Seasonal frozen ground,Wetland,AM,1.239559728,17.3604,MTC
+Seasonal frozen ground,Forest,EcM,1.352505127,22.51672,HS-HM
+Seasonal frozen ground,Forest,EcM,1.379991143,23.98784,HS-HM
+Seasonal frozen ground,Forest,EcM,1.252616167,17.89024,HS-HM
+Seasonal frozen ground,Forest,EcM,1.398610736,25.03864,HS-HM
+Seasonal frozen ground,Forest,EcM,1.252616167,17.89024,HS
+Seasonal frozen ground,Forest,EcM,1.198263295,15.78568,HS
+Seasonal frozen ground,Forest,EcM,1.262701627,18.31056,HS
+Seasonal frozen ground,Forest,EcM,1.247484226,17.68008,HS
+Seasonal frozen ground,Forest,EcM,1.540478636,34.71192,XS-FS
+Seasonal frozen ground,Forest,EcM,1.252616167,17.89024,XS-FS
+Seasonal frozen ground,Forest,EcM,1.335921436,21.67312,XS-FS
+Seasonal frozen ground,Forest,EcM,1.426835154,26.71992,XS-FS
+Seasonal frozen ground,Forest,EcM,1.242290916,17.46992,BL
+Seasonal frozen ground,Forest,EcM,1.262701627,18.31056,BH
+Seasonal frozen ground,Forest,EcM,1.198263295,15.78568,BH
+Seasonal frozen ground,Forest,EcM,1.162107769,14.52472,BH
+Permafrost,Forest,EcM,0.920553232,8.32824,LYS-BH
+Permafrost,Forest,EcM,1.163852236,14.58318,LYS-BH
+Permafrost,Forest,EcM,0.675140175,4.73304,LYS-BH
+Permafrost,Forest,EcM,1.163852236,14.58318,LYS-BH
+Permafrost,Forest,EcM,0.776340817,5.97504,LYS-BH
+Permafrost,Forest,EcM,0.804891467,6.38104,LYS-BH
+Permafrost,Forest,EcM,0.920553232,8.32824,LYS-BH
+Permafrost,Forest,EcM,0.675140175,4.73304,LYS-BH
+Permafrost,Forest,EcM,0.675140175,4.73304,LYS-BH
+Permafrost,Forest,EcM,0.785158931,6.0976,LYS-BH
+Permafrost,Forest,EcM,0.804891467,6.38104,LYS-BH
+Permafrost,Forest,EcM,0.675140175,4.73304,LYS-BH
+Permafrost,Forest,EcM,0.675140175,4.73304,LYS-BH
+Permafrost,Forest,EcM,0.675140175,4.73304,LYS-BH
+Permafrost,Forest,EcM,0.675140175,4.73304,LYS-BH
+Permafrost,Forest,EcM,0.776340817,5.97504,LYS-BH
+Permafrost,Forest,EcM,1.163852236,14.58318,LYS-BH
+Permafrost,Forest,EcM,0.985644689,9.67486,LYS-BH
+Permafrost,Forest,EcM,0.675140175,4.73304,LYS-BH
+Permafrost,Wetland,EcM,1.030194785,10.72,QM
+Permafrost,Wetland,EcM,1.093981704,12.416,QM
+Permafrost,Wetland,EcM,1.122019172,13.244,BH
+Permafrost,Wetland,EcM,1.224377652,16.764,BH
+Permafrost,Wetland,EcM,1.15192118,14.188,XS-
+Permafrost,Wetland,EcM,1.11320777,12.978,LYS
+Permafrost,Wetland,EcM,1.112605002,12.96,LYS
+Permafrost,Wetland,EcM,1.218220304,16.528,LYS
+Permafrost,Wetland,EcM,1.151431144,14.172,LYS
+Permafrost,Wetland,EcM,1.242789809,17.49,LYS
+Permafrost,Wetland,EcM,0.792593379,6.20288,BH
+Permafrost,Wetland,EcM,0.416593914,2.60972,BH
+Permafrost,Wetland,EcM,0.637393654,4.33904,LYS
+Permafrost,Wetland,EcM,0.416314248,2.60804,LYS
+Permafrost,Forest,EcM,0.801176015,6.326682135,
+Permafrost,Grassland,NM,0.940941554,8.728538944,XYZ
+Seasonal frozen ground,Grassland,AM,1.030798763,10.73491879,XYZ-TC
+Permafrost,Wetland,AM,1.61979524,41.66728854,XYZ-TC
+Seasonal frozen ground,Wetland,AM,,,XYZ-TC
+Seasonal frozen ground,Forest,EcM,,,ZS
+Seasonal frozen ground,Forest,EcM,,,ZS
+Seasonal frozen ground,Grassland,NM,0.706046161,5.082134571,XYZ
+Seasonal frozen ground,Wetland,AM,,,TTTC
+Seasonal frozen ground,Wetland,AM,,,TTTC-LW
+Permafrost,Forest,EcM,1.163703614,14.57819026,LYS-BH
+Seasonal frozen ground,Forest,EcM,1.20370413,15.98468677,SY-BH
+Permafrost,Forest,EcM,0.534491376,3.423665893,LYS-BH
+Permafrost,Forest,EcM,1.211599963,16.27795947,LYS-YS
+Permafrost,Forest,EcM,,,LYS-BH
+Seasonal frozen ground,Forest,EcM,,,YS
+Seasonal frozen ground,Forest,EcM,,,ZS-HS
+Seasonal frozen ground,Forest,EcM,0.99997988,9.99953672,LYS-ZS
+Seasonal frozen ground,Forest,EcM,1.20370413,15.98468677,SY-BH
+Seasonal frozen ground,Forest,EcM,,,ZS
+Seasonal frozen ground,Forest,EcM,0.739225312,5.485614849,ZS
+Seasonal frozen ground,Grassland,,0.316738754,2.073665748,
+Seasonal frozen ground,Forest,EcM,0.938904966,8.687703016,BH-ZS
+Seasonal frozen ground,Forest,EcM,0.628922061,4.255220418,ZS
+Seasonal frozen ground,Forest,EcM,1.272180948,18.71461717,ZH-YS
+Seasonal frozen ground,Grassland,,0.769397923,5.880278868,
+Seasonal frozen ground,Grassland,AM,0.72437092,5.301160093,XYZ-YC
+Seasonal frozen ground,Grassland,,,,
+Permafrost,Forest,EcM,,,
+Seasonal frozen ground,Forest,EcM,0.979047433,9.52900232,
+Seasonal frozen ground,Grassland,AM,0.217728153,1.650928074,ZM
+Seasonal frozen ground,Grassland,,0.727514839,5.339675174,
+Seasonal frozen ground,Grassland,NM,,,XYZ
+Seasonal frozen ground,Grassland,,,,
+Seasonal frozen ground,Forest,EcM,1.064318982,11.5962877,ZS
+Seasonal frozen ground,Grassland,NM,,,XYZ-TC
+Seasonal frozen ground,Forest,EcM,0.685170018,4.84361949,ZS-HS
+Seasonal frozen ground,Grassland,NM,0.979829241,9.546171694,XYZ
+Seasonal frozen ground,Forest,EcM,1.131027402,13.52157875,ZS-HS
+Seasonal frozen ground,Grassland,,0.454579643,2.848260077,
+Seasonal frozen ground,Forest,EcM,0.675663532,4.7387471,ZS-HS
+Permafrost,Forest,EcM,1.099265531,12.56798144,ZH-YS
+Seasonal frozen ground,Grassland,AM,1.028620311,10.6812065,XYZ-TC
+Seasonal frozen ground,Forest,EcM,,,HS-LYS
+Seasonal frozen ground,Grassland,AM,0.722255861,5.275405664,TMH-YC
+Seasonal frozen ground,Grassland,AM,0.794661075,6.232482599,YC
+Seasonal frozen ground,Grassland,AM,0.733651492,5.415661253,TC-YC
+Seasonal frozen ground,Grassland,AM,0.920738135,8.331786543,XYZ-TC
+Seasonal frozen ground,Wetland,EcM,,,XYZ-ZL
+Seasonal frozen ground,Forest,EcM,1.131027402,13.52157875,ZS-HS
+Seasonal frozen ground,Forest,EcM,0.652708399,4.494779582,LYS-HS
+Seasonal frozen ground,Forest,,1.359100028,22.8612529,
+Seasonal frozen ground,Forest,EcM,,,YS-LS
+Seasonal frozen ground,Forest,EcM,,,
+Seasonal frozen ground,Forest,,0.995176933,9.889559165,
+Seasonal frozen ground,Grassland,,0.227284086,1.687656613,
+Seasonal frozen ground,Forest,,0.866417559,7.352204176,
+Seasonal frozen ground,Forest,,0.511216254,3.245011601,
+Seasonal frozen ground,Forest,,0.947404151,8.859396752,
+Seasonal frozen ground,Forest,,1.077987228,11.96705336,
+Seasonal frozen ground,Forest,EcM,1.302940311,20.08816705,LYS-HS
+Seasonal frozen ground,Forest,,1.298082736,19.86473318,
+Seasonal frozen ground,Forest,,,,
+Seasonal frozen ground,Forest,EcM,0.738545133,5.477030162,HS-ZS
+Seasonal frozen ground,Forest,EcM,1.103287691,12.68491879,YS-LS
+Seasonal frozen ground,Forest,,,,
+Seasonal frozen ground,Forest,EcM,0.315400434,2.067285383,HS
+Seasonal frozen ground,Grassland,,1.231703698,17.04918794,
+Seasonal frozen ground,Grassland,,0.520782835,3.317285383,
+Seasonal frozen ground,Grassland,,0.368875537,2.338167053,
+Seasonal frozen ground,Forest,,0.452238394,2.832946636,
+Seasonal frozen ground,Forest,,0.783757712,6.077958237,
+Seasonal frozen ground,Forest,EcM,,,LS-HS
+Seasonal frozen ground,Grassland,,,,
+Seasonal frozen ground,Forest,EcM,,,ZS-LS
+Seasonal frozen ground,Forest,EcM,0.670917097,4.687238979,ZS
+Seasonal frozen ground,Forest,EcM,,,ZS-HS
+Seasonal frozen ground,Forest,EcM,0.717859636,5.222273782,
+Seasonal frozen ground,Forest,EcM,,,ZS-HS
+Seasonal frozen ground,Grassland,NM,,,XYZ
+Seasonal frozen ground,Forest,AM,-0.095652281,0.802320186,TC
+Seasonal frozen ground,Forest,EcM,-0.449927789,0.35487239,YS
+Seasonal frozen ground,Forest,EcM,0.573210943,3.742923434,ZS
+Seasonal frozen ground,Forest,EcM,,,LYS
+Seasonal frozen ground,Grassland,AM,,,GWC
+Seasonal frozen ground,Grassland,AM,,,HL
+Seasonal frozen ground,Forest,,,,
+Seasonal frozen ground,Forest,EcM,,,LYS-LS
+Seasonal frozen ground,Forest,EcM,,,HS-ZS
+Seasonal frozen ground,Grassland,AM,0.914722239,8.217169374,GWC
+Seasonal frozen ground,Wetland,AM,0.438947787,2.747563805,XYZ-TC
+Seasonal frozen ground,Forest,,0.497205539,3.14199536,
+Seasonal frozen ground,Wetland,AM,,,LW-JP
+Seasonal frozen ground,Wetland,AM,0.362909114,2.306264501,LW-SLC
+Seasonal frozen ground,Forest,EcM,0.719169726,5.238051044,LYS
+Seasonal frozen ground,Grassland,AM,0.589978094,3.89025522,BLX-XAHZZ
+Seasonal frozen ground,Forest,AM,0.380882485,2.403712297,YS-CH
+Seasonal frozen ground,Wetland,AM,0.335124995,2.163341067,LW
+Seasonal frozen ground,Forest,EcM,,,YS
+Seasonal frozen ground,Grassland,,0.350432414,2.240951276,
+Seasonal frozen ground,Forest,EcM,-0.044751014,0.902088167,YS-LS
+Seasonal frozen ground,Grassland,AM,,,JC
+Seasonal frozen ground,Grassland,AM,0.353590933,2.257308585,JC
+Seasonal frozen ground,Forest,EcM,-0.024776168,0.944547564,YH
+Seasonal frozen ground,Wetland,AM,0.841135815,6.936426914,SLC-XYZ
+Seasonal frozen ground,Wetland,AM,0.775083924,5.957772622,LW
+Permafrost,Wetland,ErM,2.03537754,108.48696,XYDX-DSYJ
+Seasonal frozen ground,Wetland,AM,1.942510055,87.6012,LYS
+Permafrost,Wetland,ErM,1.863284783,72.9936,XYDX-BMYHZC
+Permafrost,Wetland,EcM,1.860989259,72.6088,LYS-YH
+Seasonal frozen ground,Wetland,NM,1.010206641,10.2378,XYZ
+Permafrost,Forest,EcM,1.344917433,22.12674,
+Permafrost,Forest,EcM,1.297243897,19.8264015,
+Permafrost,Forest,,1.178734135,15.09156,
+Permafrost,Wetland,ErM,2.017710978,104.1624,DSYJ-NTX
+Seasonal frozen ground,Wetland,AM,1.799059201,62.9592,MGTC-XYTM
+Permafrost,Wetland,ErM,1.871618114,74.40774,XYDJ
+Permafrost,Wetland,EcM,2.015530338,103.6407,LYS-BH
+Permafrost,Forest,EcM,1.280027168,19.0557992,LYS
+Permafrost,Forest,EcM,1.033346541,10.79808,LYS
+Permafrost,Forest,EcM,1.848227998,70.506312,LYS
+Permafrost,Forest,EcM,1.510475732,32.394832,LYS
+Permafrost,Wetland,ErM,,,DSYJ-BMYHZC
+Permafrost,Wetland,EcM,1.14850394,14.0768,CH-DSYJ
+Permafrost,Wetland,EcM,1.14690287,14.025,CH-DSYJ
+Permafrost,Wetland,EcM,1.082785087,12.09999212,LYS-XYDX
+Permafrost,Forest,EcM,0.981770601,9.58894,LYS
+Permafrost,Forest,EcM,1.011824096,10.276,LYS
+Permafrost,Forest,EcM,0.949202585,8.89616,ZZS
+Permafrost,Forest,EcM,0.991443169,9.8049,ZZS
+Permafrost,Forest,EcM,0.804570104,6.37632,BH
+Permafrost,Forest,EcM,0.805084715,6.38388,BH
+Permafrost,Wetland,AM,1.360029639,22.91024,TC
+Permafrost,Wetland,AM,1.246260195,17.63032,TC
+Permafrost,Forest,EcM,1.095674165,12.46448,BH
+Permafrost,Forest,EcM,1.009454295,10.22008,BH
+Permafrost,Forest,EcM,1.079745462,12.0156,LYS
+Permafrost,Forest,EcM,0.984847628,9.65712,LYS
+Permafrost,Wetland,AM,1.314440279,20.6272,TC
+Permafrost,Wetland,EcM,1.376248375,23.782,TH-DSYJ
+Permafrost,Wetland,EcM,1.500949647,31.692,MCY
+Permafrost,Wetland,EcM,1.493474781,31.1512,BH
+Permafrost,Wetland,EcM,1.297436584,19.8352,LYS-TC
+Permafrost,Wetland,EcM,1.146580707,14.0146,LYS-TX
+Permafrost,Wetland,EcM,1.45805437,28.7114,LYS-NTX
+Permafrost,Forest,EcM,1.396706948,24.92912,LYS
+Permafrost,Forest,EcM,1.380580235,24.0204,ZZS
+Permafrost,Forest,EcM,1.035602621,10.85432,LYS
+Permafrost,Forest,EcM,0.944632675,8.80304,ZZS
+Permafrost,Forest,EcM,1.007597583,10.17648,BH
+Permafrost,Wetland,EcM,1.269527887,18.60064,LYS
+Permafrost,Wetland,EcM,0.714825813,5.18592,LYS
+Permafrost,Wetland,EcM,1.320649693,20.92424,ZZS
+Permafrost,Wetland,EcM,0.808750972,6.438,ZZS
+Permafrost,Wetland,EcM,1.160955676,14.48624,BH
+Permafrost,Wetland,EcM,1.048323697,11.17696,BH
+Permafrost,Wetland,EcM,2.168521054,147.408,CH-DSYJ
+Permafrost,Wetland,,1.947869758,88.689,
+Permafrost,Wetland,,1.948991639,88.9184,
+Permafrost,Wetland,,1.906020253,80.5416,
+Permafrost,Wetland,,1.808605239,64.3584,
+Permafrost,Wetland,,2.001106908,100.2552,
+Permafrost,Wetland,,2.001683532,100.3884,
+Permafrost,Wetland,,1.999661987,99.9222,
+Permafrost,Wetland,,1.979113863,95.3046,
+Seasonal frozen ground,Grassland,AM,0.902002891,7.98,YC
+Seasonal frozen ground,Grassland,AM,0.915682589,8.23536,YC
+Seasonal frozen ground,Grassland,AM,0.886980018,7.70868,YC
+Seasonal frozen ground,Grassland,AM,0.969321774,9.31798,YC
+Seasonal frozen ground,Grassland,AM,0.887878249,7.72464,YC
+Seasonal frozen ground,Grassland,AM,0.917362647,8.26728,YC
+Seasonal frozen ground,Grassland,AM,0.958145153,9.08124,YC
+Seasonal frozen ground,Forest,EcM,,,MGL
+Seasonal frozen ground,Forest,EcM,,,MGL
+Seasonal frozen ground,Grassland,AM,0.453544604,2.84148,YC
+Seasonal frozen ground,Grassland,AM,0.511412732,3.24648,YC
+Seasonal frozen ground,Grassland,AM,0.583896713,3.83616,YC
+Seasonal frozen ground,Grassland,AM,0.415260555,2.60172,HWC
+Seasonal frozen ground,Grassland,AM,0.426472222,2.66976,HWC
+Seasonal frozen ground,Grassland,AM,0.471015788,2.95812,HWC
+Seasonal frozen ground,Grassland,AM,0.281397022,1.9116,LW
+Seasonal frozen ground,Grassland,AM,0.253270142,1.79172,LW
+Seasonal frozen ground,Grassland,AM,0.191786248,1.5552,LW
+Seasonal frozen ground,Grassland,AM,0.269456903,1.85976,JP
+Seasonal frozen ground,Grassland,AM,0.224035553,1.67508,JP
+Seasonal frozen ground,Grassland,AM,0.136885378,1.37052,JP
+Seasonal frozen ground,Grassland,AM,0.348764232,2.23236,JM
+Seasonal frozen ground,Grassland,AM,0.338560074,2.18052,JM
+Seasonal frozen ground,Grassland,AM,0.224035553,1.67508,JM
+Seasonal frozen ground,Grassland,AM,0.687503991,4.86972,SB
+Seasonal frozen ground,Grassland,AM,0.652934476,4.49712,SB
+Seasonal frozen ground,Grassland,AM,0.597260674,3.95604,SB
+Seasonal frozen ground,Grassland,AM,0.681393214,4.80168,BQ
+Seasonal frozen ground,Grassland,AM,0.583896713,3.83616,BQ
+Seasonal frozen ground,Grassland,AM,0.426472222,2.66976,BQ
+Seasonal frozen ground,Forest,EcM,1.309223784,20.38092,BH-Z
+Seasonal frozen ground,Forest,EcM,1.050091162,11.22254,BH-YS
+Seasonal frozen ground,Grassland,AM,1.094198517,12.4222,YC
+Seasonal frozen ground,Grassland,AM,0.917362647,8.26728,YC
+Seasonal frozen ground,Grassland,AM,-0.016879105,0.96188,CYZC
+Seasonal frozen ground,Grassland,EcM,,,
+Seasonal frozen ground,Grassland,EcM,,,
+Seasonal frozen ground,Grassland,EcM,,,
+Seasonal frozen ground,Grassland,EcM,,,
+Seasonal frozen ground,Grassland,EcM,,,
+Seasonal frozen ground,Grassland,EcM,,,
+Seasonal frozen ground,Grassland,AM,-0.003488328,0.992,CYZC
+Seasonal frozen ground,Grassland,EcM,,,
+Seasonal frozen ground,Grassland,EcM,,,
+Seasonal frozen ground,Grassland,EcM,,,
+Seasonal frozen ground,Grassland,EcM,,,
+Seasonal frozen ground,Grassland,EcM,,,
+Seasonal frozen ground,Grassland,EcM,,,
+Seasonal frozen ground,Grassland,AM,0.92867232,8.4854,YC
+Seasonal frozen ground,Wetland,AM,1.007863802,10.18272,XYTM
+Seasonal frozen ground,Wetland,AM,0.979045504,9.52896,XYTM
+Seasonal frozen ground,Wetland,AM,1.007476366,10.17364,XYTM
+Seasonal frozen ground,Grassland,AM,0.565375503,3.676,YC
+Seasonal frozen ground,Grassland,AM,0.51054501,3.24,YC
+Seasonal frozen ground,Grassland,AM,0.441852176,2.766,YC
+Seasonal frozen ground,Grassland,AM,0.903159469,8.00128,YC
+Seasonal frozen ground,Grassland,AM,0.916803349,8.25664,YC
+Seasonal frozen ground,Grassland,AM,0.889073007,7.74592,YC
+Seasonal frozen ground,Grassland,AM,0.970559786,9.34458,YC
+Seasonal frozen ground,Grassland,AM,0.889073007,7.74592,YC
+Seasonal frozen ground,Grassland,AM,0.916803349,8.25664,YC
+Seasonal frozen ground,Grassland,AM,0.958526615,9.08922,YC
+Seasonal frozen ground,Grassland,AM,0.788493617,6.1446,XXC
+Seasonal frozen ground,Grassland,AM,0.80617726,6.39996,XXC
+Seasonal frozen ground,Grassland,AM,0.750807592,5.63388,XXC
+Seasonal frozen ground,Grassland,AM,0.750807592,5.63388,XXC
+Seasonal frozen ground,Grassland,AM,0.765325751,5.8254,XXC
+Seasonal frozen ground,Grassland,AM,0.745858314,5.57004,XXC
+Seasonal frozen ground,Grassland,AM,0.801823394,6.33612,XXC
+Seasonal frozen ground,Wetland,NM,1.29578694,19.76,XYZ
+Seasonal frozen ground,Wetland,EcM,1.156609718,14.342,CH
+Seasonal frozen ground,Wetland,EcM,1.233909453,17.136,CH
+Seasonal frozen ground,Wetland,EcM,1.28546729,19.296,CH
+Seasonal frozen ground,Wetland,NM,1.285647309,19.304,XYZ
+Seasonal frozen ground,Wetland,EcM,1.162862993,14.55,YL
+Seasonal frozen ground,Wetland,EcM,1.240549248,17.4,YL
+Seasonal frozen ground,Wetland,EcM,1.270119599,18.626,YL
+Seasonal frozen ground,Grassland,NM,1.123417129,13.2867,XYZ
+Seasonal frozen ground,Grassland,NM,1.230127936,16.98744,XYZ
+Seasonal frozen ground,Grassland,NM,1.312118939,20.51724,XYZ
+Seasonal frozen ground,Grassland,NM,1.123417129,13.2867,XYZ
+Seasonal frozen ground,Grassland,NM,1.230127936,16.98744,XYZ
+Seasonal frozen ground,Grassland,NM,1.312118939,20.51724,XYZ
+Seasonal frozen ground,Grassland,NM,1.123417129,13.2867,XYZ
+Seasonal frozen ground,Grassland,NM,1.230071176,16.98522,XYZ
+Seasonal frozen ground,Grassland,NM,1.312118939,20.51724,XYZ
+Seasonal frozen ground,Grassland,NM,0.834339306,6.82872,XYZ
+Seasonal frozen ground,Grassland,NM,0.965237459,9.23076,XYZ
+Seasonal frozen ground,Grassland,NM,1.173851483,14.92284,XYZ
+Seasonal frozen ground,Grassland,NM,0.850143658,7.0818,XYZ
+Seasonal frozen ground,Grassland,NM,0.988421602,9.73692,XYZ
+Seasonal frozen ground,Grassland,NM,1.195342181,15.67986,XYZ
+Seasonal frozen ground,Grassland,NM,0.857835263,7.20834,XYZ
+Seasonal frozen ground,Grassland,NM,0.988421602,9.73692,XYZ
+Seasonal frozen ground,Grassland,NM,1.195342181,15.67986,XYZ
+Seasonal frozen ground,Wetland,AM,1.951196812,89.37104,XP-TC
+Seasonal frozen ground,Wetland,AM,1.951196812,89.37104,XP-TC
+Seasonal frozen ground,Wetland,AM,2.004445882,101.02896,XP-TC
+Seasonal frozen ground,Wetland,AM,1.989142855,97.53104,XP-TC
+Seasonal frozen ground,Grassland,,1.176410815,15.01104114,
+Seasonal frozen ground,Grassland,,1.079710795,12.01464091,
+Seasonal frozen ground,Forest,AM,1.053757443,11.31768086,HB
+Seasonal frozen ground,Forest,AM,0.900747208,7.956960603,HB
+Seasonal frozen ground,Forest,EcM,0.960303339,9.126480691,LYS
+Seasonal frozen ground,Forest,EcM,0.864553829,7.320720555,LYS
+Seasonal frozen ground,Forest,EcM,0.684953025,4.8412,BY
+Seasonal frozen ground,Grassland,,0.504062883,3.192,
+Seasonal frozen ground,Grassland,AM,0.543163771,3.49272,YC
+Seasonal frozen ground,Grassland,AM,0.287264126,1.9376,YC
+Seasonal frozen ground,Grassland,AM,0.292078772,1.9592,YC
+Seasonal frozen ground,Grassland,AM,0.34182215,2.19696,YC
+Seasonal frozen ground,Grassland,AM,0.276213565,1.88892,YC
+Seasonal frozen ground,Grassland,AM,0.413182371,2.5893,YC
+Seasonal frozen ground,Grassland,AM,0.246301577,1.7632,YC
+Seasonal frozen ground,Grassland,AM,0.240549248,1.74,YC
+Seasonal frozen ground,Grassland,AM,0.264496704,1.83864,YC
+Seasonal frozen ground,Grassland,AM,0.293954471,1.96768,YC
+Seasonal frozen ground,Grassland,AM,0.21571157,1.64328,YC
+Seasonal frozen ground,Grassland,AM,0.328770904,2.13192,YC
+Seasonal frozen ground,Grassland,AM,0.153363573,1.42352,YC
+Seasonal frozen ground,Grassland,AM,0.792489745,6.2014,YC
+Seasonal frozen ground,Grassland,AM,1.088855238,12.27030162,HHH
+Seasonal frozen ground,Forest,EcM,0.901449471,7.969837587,MGS
+Permafrost,Grassland,AM,0.892274908,7.803238979,HHH
+Permafrost,Forest,EcM,0.892683739,7.810588167,LYS
+Permafrost,Forest,EcM,1.022176243,10.52388863,BY
+Permafrost,Forest,EcM,0.784210736,6.084301624,XS-BY
+Seasonal frozen ground,Grassland,AM,0.386677284,2.436,JP
+Seasonal frozen ground,Grassland,AM,0.522704993,3.332,HWC
+Seasonal frozen ground,Grassland,AM,0.455758203,2.856,JM
+Seasonal frozen ground,Grassland,AM,0.629001619,4.256,YC
+Seasonal frozen ground,Grassland,AM,0.691435152,4.914,LW
+Seasonal frozen ground,Forest,EcM,0.867632453,7.3728,BH
+Seasonal frozen ground,Wetland,NM,1.07471407,11.8772,XYZ
+Seasonal frozen ground,Grassland,AM,0.314183339,2.0615,YC
+Seasonal frozen ground,Grassland,AM,0.38344552,2.41794,YC
+Seasonal frozen ground,Grassland,AM,0.365398122,2.31952,YC
+Seasonal frozen ground,Grassland,AM,0.245083096,1.75826,YC
+Seasonal frozen ground,Grassland,AM,0.460711462,2.88876,YC
+Seasonal frozen ground,Grassland,AM,0.370350222,2.34612,YC
+Seasonal frozen ground,Grassland,AM,0.370350222,2.34612,YC
+Seasonal frozen ground,Grassland,AM,0.420516831,2.6334,YC
+Seasonal frozen ground,Grassland,,0.809142053,6.4438,
+Seasonal frozen ground,Grassland,AM,0.561602204,3.6442,YC
+Seasonal frozen ground,Grassland,AM,0.489339626,3.0856,YC
+Seasonal frozen ground,Grassland,AM,0.40715287,2.5536,YC
+Seasonal frozen ground,Forest,EcM,1.137508682,13.72488399,BH
+Seasonal frozen ground,Forest,EcM,1.090363225,12.31298144,BY
+Seasonal frozen ground,Forest,EcM,1.037609037,10.90458237,MGL
+Permafrost,Wetland,ErM,1.711915831,51.51288,
+Permafrost,Wetland,ErM,1.727233238,53.36214,
+Permafrost,Wetland,ErM,1.626658118,42.33096,
+Seasonal frozen ground,Grassland,AM,0.500428598,3.1654,HWC
+Seasonal frozen ground,Grassland,AM,0.433481808,2.7132,JM
+Seasonal frozen ground,Grassland,AM,0.606725225,4.0432,YC
+Seasonal frozen ground,Grassland,AM,0.701343441,5.0274,LW
+Seasonal frozen ground,Wetland,AM,1.106427535,12.77696,XYZ-XYTM
+Seasonal frozen ground,Wetland,NM,1.170591798,14.8112529,XYZ
+Seasonal frozen ground,Wetland,AM,1.402031858,25.23665893,WLC
+Seasonal frozen ground,Wetland,AM,1.529976711,33.88259861,MTC
+Seasonal frozen ground,Wetland,AM,1.339262323,21.84048724,PFTC
+Seasonal frozen ground,Grassland,,0.632760888,4.293,
+Seasonal frozen ground,Grassland,,0.598067905,3.9634,
+Seasonal frozen ground,Grassland,,0.332519251,2.1504,
+Seasonal frozen ground,Grassland,,0.402364569,2.5256,
+Seasonal frozen ground,Grassland,,0.650424097,4.4712,
+Seasonal frozen ground,Grassland,,0.054613055,1.134,
+Seasonal frozen ground,Grassland,,0.315214393,2.0664,
+Seasonal frozen ground,Grassland,,0.250615147,1.7808,
+Seasonal frozen ground,Grassland,,0.488832634,3.082,
+Seasonal frozen ground,Grassland,,0.463713862,2.9088,
+Seasonal frozen ground,Grassland,AM,0.634474932,4.309976798,YGC
+Seasonal frozen ground,Grassland,AM,0.516493962,3.284686775,YGC
+Seasonal frozen ground,Grassland,AM,0.637457224,4.339675174,NBC
+Seasonal frozen ground,Grassland,AM,0.572213711,3.734338747,NBC
+Seasonal frozen ground,Grassland,AM,0.538081879,3.452088167,YC
+Seasonal frozen ground,Grassland,AM,0.547994447,3.531786543,YC
+Seasonal frozen ground,Grassland,AM,0.394703519,2.481438515,YC
+Seasonal frozen ground,Grassland,AM,0.517596933,3.293039443,YC
+Seasonal frozen ground,Grassland,AM,0.586532481,3.859512761,FZM
+Seasonal frozen ground,Grassland,AM,0.584936962,3.845359629,FZM
+Seasonal frozen ground,Grassland,,0.645201079,4.41774942,YC
+Seasonal frozen ground,Grassland,AM,0.515818543,3.279582367,YC
+Seasonal frozen ground,Grassland,AM,0.672794075,4.707540603,YC
+Seasonal frozen ground,Grassland,AM,0.413711963,2.592459397,YC
+Seasonal frozen ground,Grassland,AM,0.548906472,3.539211137,HWC
+Seasonal frozen ground,Grassland,AM,0.507348624,3.216241299,HWC
+Seasonal frozen ground,Grassland,AM,0.16070732,1.447795824,JP
+Seasonal frozen ground,Grassland,AM,0.200864458,1.588051044,JP
+Seasonal frozen ground,Grassland,AM,0.098519258,1.254640371,JP
+Seasonal frozen ground,Grassland,AM,0.088896297,1.227146172,JP
+Seasonal frozen ground,Grassland,AM,0.214081302,1.63712297,JH
+Seasonal frozen ground,Grassland,AM,0.130744096,1.351276102,JH
+Seasonal frozen ground,Grassland,AM,0.374250617,2.367285383,JDF
+Seasonal frozen ground,Grassland,AM,0.27131861,1.86774942,JDF
+Seasonal frozen ground,Wetland,AM,-0.563455723,0.27324,LW
+Seasonal frozen ground,Wetland,AM,-0.684029655,0.207,LW
+Seasonal frozen ground,Grassland,AM,0.536487738,3.43944,JP
+Seasonal frozen ground,Grassland,AM,0.490472582,3.09366,JP
+Seasonal frozen ground,Wetland,AM,0.219060332,1.656,LW
+Seasonal frozen ground,Wetland,AM,-0.077648289,0.83628,LW
+Seasonal frozen ground,Grassland,AM,0.106653173,1.27836,YC
+Seasonal frozen ground,Forest,EcM,0.028408565,1.0676,LYS
+Seasonal frozen ground,Forest,EcM,0.407815642,2.5575,YS
+Seasonal frozen ground,Forest,AM,0.331439444,2.14506,YS
+Seasonal frozen ground,Forest,EcM,0.234122291,1.71444,ZZS
+Seasonal frozen ground,Grassland,AM,0.386677284,2.436,JP
+Seasonal frozen ground,Grassland,AM,0.522704993,3.332,HWC
+Seasonal frozen ground,Grassland,AM,0.455758203,2.856,JM
+Seasonal frozen ground,Grassland,AM,0.629001619,4.256,YC
+Seasonal frozen ground,Grassland,AM,0.691435152,4.914,LW
+Seasonal frozen ground,Forest,EcM,0.957825576,9.07456,MGS-SY
+Seasonal frozen ground,Wetland,NM,1.162110161,14.5248,XYZ
+Seasonal frozen ground,Wetland,NM,0.916284143,8.246774942,XYZ
+Seasonal frozen ground,Forest,EcM,0.729638274,5.365846868,LYS
+Seasonal frozen ground,Wetland,NM,1.045083464,11.09388,XYZ
+Seasonal frozen ground,Wetland,NM,1.067361777,11.67782,XYZ
+Seasonal frozen ground,Wetland,NM,1.025417293,10.60272,XYZ
+Seasonal frozen ground,Wetland,NM,0.908883743,8.10744,XYZ
+Seasonal frozen ground,Wetland,NM,0.954265671,9.00048,XYZ
+Seasonal frozen ground,Wetland,NM,0.460963959,2.89044,XYZ
+Seasonal frozen ground,Grassland,NM,0.357500335,2.27772,XYZ
+Seasonal frozen ground,Forest,EcM,0.164578868,1.46076,BH
+Seasonal frozen ground,Wetland,AM,1.14527847,13.97264,XYZ-WLC
+Seasonal frozen ground,Wetland,AM,1.326992542,21.23208,MTC-XYZ
+Seasonal frozen ground,Wetland,AM,1.158731486,14.41224,MTC-XYZ
+Seasonal frozen ground,Wetland,NM,1.23802602,17.2992,XYZ
+Seasonal frozen ground,Wetland,NM,0.839402621,6.9088,XYZ
+Seasonal frozen ground,Wetland,NM,1.230448921,17,XYZ
+Seasonal frozen ground,Wetland,NM,0.680081572,4.7872,XYZ
+Seasonal frozen ground,Wetland,AM,0.829020585,6.7456,MTC
+Seasonal frozen ground,Wetland,AM,0.610660163,4.08,MTC
+Seasonal frozen ground,Wetland,AM,0.667565014,4.6512,LW
+Seasonal frozen ground,Wetland,AM,0.510115865,3.2368,LW
+Seasonal frozen ground,Wetland,NM,1.237821115,17.29104,XYZ
+Seasonal frozen ground,Wetland,NM,0.83974445,6.91424,XYZ
+Seasonal frozen ground,Wetland,NM,1.230587873,17.00544,XYZ
+Seasonal frozen ground,Wetland,NM,0.679340666,4.77904,XYZ
+Seasonal frozen ground,Wetland,AM,0.829720496,6.75648,MTC
+Seasonal frozen ground,Wetland,AM,0.610080717,4.07456,MTC
+Seasonal frozen ground,Wetland,AM,0.667565014,4.6512,LW
+Seasonal frozen ground,Wetland,AM,0.511573231,3.24768,LW
+Seasonal frozen ground,Wetland,AM,0.570584966,3.72036,MGTC
+Seasonal frozen ground,Wetland,AM,0.731427587,5.388,MGTC
+Seasonal frozen ground,Wetland,AM,0.951030392,8.93368,MGTC
+Seasonal frozen ground,Wetland,AM,0.896548262,7.8804,MGTC
+Seasonal frozen ground,Wetland,AM,0.676678981,4.74984,LW
+Seasonal frozen ground,Wetland,AM,0.811414126,6.4776,LW
+Seasonal frozen ground,Wetland,AM,0.870570099,7.42284,LW
+Seasonal frozen ground,Wetland,AM,0.908324139,8.097,LW
+Seasonal frozen ground,Wetland,NM,0.956480588,9.0465,XYZ
+Seasonal frozen ground,Wetland,NM,0.928530012,8.48262,XYZ
+Seasonal frozen ground,Wetland,NM,0.836873284,6.86868,XYZ
+Seasonal frozen ground,Wetland,AM,0.989114178,9.75246,LW
+Seasonal frozen ground,Wetland,AM,0.837854741,6.88422,LW
+Seasonal frozen ground,Wetland,AM,0.71015292,5.13042,LW
+Seasonal frozen ground,Wetland,AM,1.010242273,10.23864,LW
+Seasonal frozen ground,Wetland,AM,1.033525079,10.80252,LW
+Seasonal frozen ground,Wetland,AM,0.961039317,9.14196,LW
+Seasonal frozen ground,Wetland,NM,0.991185303,9.79908,XYZ
+Seasonal frozen ground,Wetland,NM,0.855286501,7.16616,XYZ
+Seasonal frozen ground,Wetland,NM,0.705998767,5.08158,XYZ
+Seasonal frozen ground,Wetland,NM,0.97982143,9.546,XYZ
+Seasonal frozen ground,Wetland,NM,0.787262057,6.1272,XYZ
+Seasonal frozen ground,Wetland,NM,1.077043608,11.94108,XYZ
+Seasonal frozen ground,Wetland,NM,1.066706745,11.66022,XYZ
+Seasonal frozen ground,Wetland,NM,1.123360905,13.28498,XYZ
+Seasonal frozen ground,Wetland,NM,1.186383299,15.35972,XYZ
+Seasonal frozen ground,Wetland,NM,1.106552602,12.78064,XYZ
+Seasonal frozen ground,Wetland,NM,1.235729388,17.20796,XYZ
+Seasonal frozen ground,Wetland,NM,0.640775505,4.37296,XYZ
+Seasonal frozen ground,Wetland,NM,0.976521462,9.47374,XYZ
+Seasonal frozen ground,Wetland,NM,1.12699848,13.39672,XYZ
+Seasonal frozen ground,Wetland,NM,1.114080968,13.00412,XYZ
+Seasonal frozen ground,Wetland,NM,1.131255424,13.52868,XYZ
+Seasonal frozen ground,Wetland,NM,0.942510055,8.76012,XYZ
+Seasonal frozen ground,Wetland,NM,1.156609113,14.34198,XYZ
+Seasonal frozen ground,Wetland,NM,0.899467016,7.93354,XYZ
+Seasonal frozen ground,Wetland,AM,1.775943777,59.6958,MGTC
+Seasonal frozen ground,Wetland,NM,1.370016893,23.4432,XYZ
+Seasonal frozen ground,Wetland,NM,1.313713714,20.59272,XYZ
+Seasonal frozen ground,Wetland,NM,1.267935415,18.53256,XYZ
+Seasonal frozen ground,Wetland,NM,1.358586181,22.83422,XYZ
+Seasonal frozen ground,Wetland,NM,1.083147729,12.1101,XYZ
+Seasonal frozen ground,Wetland,NM,1.02057092,10.48506,XYZ
+Seasonal frozen ground,Wetland,NM,1.004364371,10.101,XYZ
+Seasonal frozen ground,Wetland,NM,1.007408059,10.17204,XYZ
+Seasonal frozen ground,Wetland,NM,1.001587481,10.03662,XYZ
+Seasonal frozen ground,Wetland,NM,1.006364196,10.14762,XYZ
+Seasonal frozen ground,Wetland,NM,1.009676908,10.22532,XYZ
+Seasonal frozen ground,Wetland,NM,0.979968809,9.54924,XYZ
+Seasonal frozen ground,Wetland,NM,0.948058734,8.87276,XYZ
+Seasonal frozen ground,Wetland,NM,0.965728369,9.2412,XYZ
+Seasonal frozen ground,Wetland,NM,0.918707476,8.29292,XYZ
+Seasonal frozen ground,Wetland,NM,0.986917669,9.70326,XYZ
+Seasonal frozen ground,Wetland,NM,0.92389549,8.39258,XYZ
+Seasonal frozen ground,Wetland,NM,0.974995917,9.44052,XYZ
+Seasonal frozen ground,Wetland,NM,0.929022259,8.49224,XYZ
+Seasonal frozen ground,Wetland,NM,1.001667958,10.03848,XYZ
+Seasonal frozen ground,Wetland,NM,0.975412506,9.44958,XYZ
+Seasonal frozen ground,Wetland,NM,1.461508431,28.94066,XYZ
+Seasonal frozen ground,Wetland,NM,1.175838716,14.99128,XYZ
+Seasonal frozen ground,Wetland,NM,1.449609208,28.15848,XYZ
+Seasonal frozen ground,Wetland,NM,1.215526002,16.42578,XYZ
+Seasonal frozen ground,Wetland,NM,1.437374751,27.3763,XYZ
+Seasonal frozen ground,Wetland,NM,1.215526002,16.42578,XYZ
+Seasonal frozen ground,Wetland,NM,1.457547649,28.67792,XYZ
+Seasonal frozen ground,Wetland,NM,1.179584534,15.12114,XYZ
+Seasonal frozen ground,Wetland,NM,1.461508431,28.94066,XYZ
+Seasonal frozen ground,Wetland,NM,1.205019668,16.03318,XYZ
+Seasonal frozen ground,Wetland,NM,1.029156424,10.6944,XYZ
+Seasonal frozen ground,Wetland,NM,0.874344956,7.48764,XYZ
+Seasonal frozen ground,Wetland,NM,0.8722099,7.45092,XYZ
+Seasonal frozen ground,Wetland,NM,0.717815244,5.22174,XYZ
+Seasonal frozen ground,Forest,EcM,0.81646005,6.5533,SY
+Seasonal frozen ground,Forest,EcM,0.601886239,3.9984,SY
+Seasonal frozen ground,Wetland,AM,1.46146401,28.9377,MTC
+Seasonal frozen ground,Wetland,NM,1.00607907,10.14096,XYZ
+Seasonal frozen ground,Wetland,EcM,0.99490813,9.88344,SY
+Seasonal frozen ground,Wetland,NM,1.011933965,10.2786,XYZ
+Seasonal frozen ground,Wetland,NM,0.927733663,8.46708,XYZ
+Seasonal frozen ground,Wetland,NM,1.324305096,21.1011,XYZ
+Seasonal frozen ground,Grassland,NM,0.990791564,9.7902,XYZ
+Seasonal frozen ground,Forest,EcM,0.765482282,5.8275,BH
+Seasonal frozen ground,Wetland,NM,1.190970062,15.5228,XYZ
+Seasonal frozen ground,Wetland,NM,0.648798963,4.4545,XYZ
+Seasonal frozen ground,Forest,EcM,1.253118864,17.91096,BH
+Seasonal frozen ground,Forest,EcM,0.548023154,3.53202,BH
+Seasonal frozen ground,Wetland,EcM,0.872076985,7.44864,MGS-SY
+Seasonal frozen ground,Wetland,EcM,0.644271142,4.4083,MGS-SY
+Seasonal frozen ground,Wetland,NM,1.06483222,11.61,XYZ
+Seasonal frozen ground,Wetland,NM,0.928178651,8.47576,XYZ
+Seasonal frozen ground,Wetland,AM,0.900552825,7.9534,MGTC
+Seasonal frozen ground,Wetland,AM,1.035992955,10.86408,MGTC
+Seasonal frozen ground,Wetland,NM,1.039334789,10.948,XYZ
+Seasonal frozen ground,Wetland,NM,1.854073951,71.4618,XYZ
+Seasonal frozen ground,Wetland,NM,1.772131661,59.1741,XYZ
+Seasonal frozen ground,Wetland,NM,1.732941108,54.0681,XYZ
+Seasonal frozen ground,Wetland,AM,1.253764335,17.9376,MGTC-XYZ
+Seasonal frozen ground,Grassland,,,,
+Seasonal frozen ground,Forest,,,,
+Seasonal frozen ground,Forest,EcM,1.650268543,44.69598816,HS-KY
+Seasonal frozen ground,Forest,EcM,1.384575613,24.2424,HS-KY
+Seasonal frozen ground,Forest,EcM,1.171129437,14.8296,HS-KY
+Seasonal frozen ground,Forest,EcM,1.086188505,12.19518816,HS-KY
+Seasonal frozen ground,Forest,EcM,0.780921878,6.0384,HS-KY
+Seasonal frozen ground,Forest,EcM,0.557652966,3.61121184,HS-KY
+Seasonal frozen ground,Forest,EcM,0.357784692,2.27921184,HS-KY
+Seasonal frozen ground,Forest,EcM,1.608329166,40.5816,BH
+Seasonal frozen ground,Forest,EcM,1.398148626,25.01201184,BH
+Seasonal frozen ground,Forest,EcM,1.313900951,20.6016,BH
+Seasonal frozen ground,Forest,EcM,1.207688532,16.13201184,BH
+Seasonal frozen ground,Forest,EcM,1.136872327,13.70478816,BH
+Seasonal frozen ground,Forest,EcM,0.988488137,9.73841184,BH
+Seasonal frozen ground,Forest,EcM,1.004046599,10.09361184,BH
+Seasonal frozen ground,Forest,EcM,1.174582745,14.94798816,HS-KY
+Seasonal frozen ground,Forest,EcM,1.011621686,10.27121184,HS-KY
+Seasonal frozen ground,Forest,EcM,1.168521054,14.7408,HS-KY
+Seasonal frozen ground,Forest,EcM,1.039492966,10.95198816,HS-KY
+Seasonal frozen ground,Forest,EcM,1.140608964,13.82321184,HS-KY
+Seasonal frozen ground,Forest,EcM,1.037140002,10.89281184,HS-KY
+Seasonal frozen ground,Forest,AM,,,SM
+Seasonal frozen ground,Forest,AM,,,SS
+Seasonal frozen ground,Forest,AM,,,SM
+Seasonal frozen ground,Forest,EcM,1.779856039,60.23598816,YS
+Seasonal frozen ground,Forest,EcM,1.574411102,37.53281184,YS
+Seasonal frozen ground,Forest,EcM,1.349238893,22.34801184,YS
+Seasonal frozen ground,Forest,EcM,1.158820316,14.41518816,YS
+Seasonal frozen ground,Forest,EcM,0.635645757,4.32161184,YS
+Seasonal frozen ground,Forest,EcM,0.352103018,2.24958816,YS
+Seasonal frozen ground,Forest,EcM,0.152532948,1.4208,YS
